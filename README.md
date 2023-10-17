@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
- My name is Rafael Davila Bugarin
+My name is Rafael Davila Bugarin
 
 <div align="right"> 
 
