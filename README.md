@@ -2,15 +2,25 @@
 
 <div align="right"> 
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-davila-bugarin-87727887/)
+  My name is Rafael Davila Bugarin [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-davila-bugarin-87727887/)
 
 </div>
 
-My name is Rafael Davila Bugarin and I want to improve people's lives using mathematics and computers.
+ I want to improve people's lives using mathematics and computers.
 
-Over the past couple of years, I've been finding business gaps and turning them into opportunities. I'm passionate about learning new technologies to provide simple yet effective solutions. I'm also deeply committed to improving both businesses and people, even outside of work, as I run an NGO to teach math to children 📚 [Sodemca Academy](https://www.sodemca.org/en)
+Over the past couple of years, I've been finding business gaps and turning them into opportunities. I'm passionate about learning new technologies to provide simple yet effective solutions.
 
 I got a major in Mathematics, where only 10% graduate, and a master in Economics from one of the best universities in Latin America, I'm a Fulbright Scholar and a graduate student in Data Science @ Duke
+
+I'm also deeply committed to improving both businesses and people, even outside of work, as I run an NGO to teach math to children 📚 [Sodemca Academy](https://www.sodemca.org/en)
+
+
+
+
+</br>
+</br>
+</br>
+</br>
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
