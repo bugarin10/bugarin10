@@ -8,6 +8,9 @@
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-davila-bugarin-87727887/)
 
+</div>
+
+<div aling="center">
 
  I want to improve people's lives using mathematics and computers.
 
@@ -17,7 +20,7 @@ I got a major in Mathematics, where only 10% graduate, and a master in Economics
 
 I'm also deeply committed to improving both businesses and people, even outside of work, as I run an NGO to teach math to children 📚 [Sodemca Academy](https://www.sodemca.org/en)
 
-
+</div>
 
 
 </br>
