@@ -12,9 +12,9 @@ My name is Rafael Davila Bugarin
 
 Over the past couple of years, I've been finding business gaps and turning them into opportunities. I'm passionate about learning new technologies to provide simple yet effective solutions.
 
-I got a major in Mathematics, where only 10% graduate, and a master in Economics from one of the best universities in Latin America, I'm a Fulbright Scholar and a graduate student in Data Science @ Duke
+I got a major in Mathematics, where only 10% graduate, and a master in Economics from one of the best universities in Latin America, I'm a Fulbright Scholar and currently a MSc Data Science student @ [Duke](https://datascience.duke.edu/people/rafael-davila-bugarin/).
 
-I'm also deeply committed to improving both businesses and people, even outside of work, as I run an NGO to teach math to children 📚 [Sodemca Academy](https://www.sodemca.org/en)
+I'm also deeply committed to improving both businesses and people, even outside of work, as I run an NGO to teach math to children 📚 [Sodemca Academy](https://www.sodemca.org/en).
 
 </div>
 
