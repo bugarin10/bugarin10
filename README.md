@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<div style="text-align:center"> 
+
 
  My name is Rafael Davila Bugarin
   
  <div align="right"> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-davila-bugarin-87727887/)
  </div>
-</div>
+
 
  I want to improve people's lives using mathematics and computers.
 
