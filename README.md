@@ -8,7 +8,7 @@ My name is Rafael Davila Bugarin
 
 <div aling="center">
 
-I am currently employed at the Center for Research & Engineering of AI Technology in Education (CREATE). In this role, I am tasked with developing a framework for deploying Large Language Models (LLM). This involves working with blob storage, retrieving information from a vector database, and implementing Retrieval Augmented Generation (RAG) to deliver a customized model for our stakeholders.
+I am currently employed at the Center for Research & Engineering of AI Technology in Education [(CREATE)](https://sites.duke.edu/createcenter/). In this role, I am tasked with developing a framework for deploying Large Language Models (LLM). This involves working with blob storage, retrieving information from a vector database, and implementing Retrieval Augmented Generation (RAG) to deliver a customized model for our stakeholders.
 
 # Interesting projects:
 
