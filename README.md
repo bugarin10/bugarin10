@@ -12,7 +12,7 @@ I am currently employed at the Center for Research & Engineering of AI Technolog
 
 # Interesting projects:
 
-1. Local LLM using Local VDB to query Documents. repo [here]([https://github.com/bugarin10/nfl_plotting](https://github.com/bugarin10/vectordatabase))
+1. Local LLM using Local VDB to query Documents. repo [here](https://github.com/bugarin10/vectordatabase)
 1. Image recognition app demo video [here](https://youtu.be/BKOTL1aNSCs), repo ->[here](https://github.com/bugarin10/image_recognition)
 2. end-to-end ETL process, webscrapping, pyspark, Databricks-Azure hosting, deployment with Tableau. Demo video [here](https://www.youtube.com/watch?v=VXxZTcMS7hc), repo [here](https://github.com/bugarin10/databricks_end_to_end)
 
